@@ -18,7 +18,6 @@ import pandas as pd
 
 from sklearn.linear_model import LinearRegression 
 
-from seminars.practice_03_CST.utils.utils import RootPolynomialFeatures, RobustScalableRationalFeatures
 from sklearn.linear_model import Ridge, Lasso, ElasticNet, SGDRegressor, LinearRegression
 from sklearn.pipeline import Pipeline
 
